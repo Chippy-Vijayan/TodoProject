@@ -1,0 +1,13 @@
+.banner {
+    background-color: BlueViolet;
+    Width : 100%;
+    Height:200%;
+    margin-bottom : 50px;
+}
+
+.banner-text{
+    top :50px;
+    left:50px;
+    position :Absolute;
+    transform : Transform;
+}
